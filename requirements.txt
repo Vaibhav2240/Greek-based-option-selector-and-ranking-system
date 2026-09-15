@@ -1,0 +1,6 @@
+# Option Ranker dependencies
+pandas
+numpy
+requests
+streamlit
+plotly
